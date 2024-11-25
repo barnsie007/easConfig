@@ -2,8 +2,8 @@
 # Mon Nov 25 12:16:27 UTC 2024
 version: 1.0
 app:
-  # john build id to deploy. if 'version' is commented out, the application is not deployed
-  version: "cc984cdf-eb91-4f5b-a987-16233e4e8bfb"
+  # build id to deploy. if 'version' is commented out, the application is not deployed
+  version: "123"
   
   # number of instances
   instances:
